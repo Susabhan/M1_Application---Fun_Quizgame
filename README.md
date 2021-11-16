@@ -1,2 +1,2 @@
-# M1_Application---Fun_Quizgame
+# M1_Application_Quizgame
 In this game people can upgrade their knowledge In a easiest way. 
