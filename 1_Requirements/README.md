@@ -15,7 +15,7 @@ Here we need some platform for execute the code properly in windows and linux al
  --- TBD 
 
 ## Research
-![Description](Link to Pic)
+![https://stackoverflow.com/questions/33781720/making-a-quiz-game-in-c](Link to Pic)
 -- Content 
 ## Cost and Features and Timeline
 ![Description](Link to Pic)
