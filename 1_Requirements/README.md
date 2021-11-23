@@ -18,3 +18,15 @@ Here we need some platform for execute the code properly in windows and linux al
 https://www.geeksforgeeks.org/hard/c-gq
 -- Content 
 
+## 4W's and 1H:
+
+### Who: 
+Quiz game. 
+### What: 
+Record Score 
+### When: 
+People in a free time usaly play this kind of game for gain extra knoladge 
+### Where: 
+This game can be play any time any where
+### How: 
+There have multiple question usaly change everytime so every day people can gain more knoladge
