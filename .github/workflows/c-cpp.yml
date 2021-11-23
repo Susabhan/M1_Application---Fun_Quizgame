@@ -1,4 +1,4 @@
-name: C/C++ CI
+name: test unit
 
 on:
   push:
@@ -14,4 +14,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make
+      run: make
+    - name: main
       run: ./main
