@@ -15,44 +15,6 @@ Here we need some platform for execute the code properly in windows and linux al
  --- TBD 
 
 ## Research
-![https://stackoverflow.com/questions/33781720/making-a-quiz-game-in-c](Link to Pic)
+https://www.geeksforgeeks.org/hard/c-gq
 -- Content 
-## Cost and Features and Timeline
-![Description](Link to Pic)
--- Content 
-## Defining Our System
-    -- TBD
-## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
 
-# 4W&#39;s and 1&#39;H
-
-## Who:
-
-**TBD**
-
-## What:
-
-**TBD**
-
-## When:
-
-**TBD**
-
-## Where:
-
-**TBD**
-
-## How:
-
-**TBD**
-
-# Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
-
-
-##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
