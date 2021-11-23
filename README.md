@@ -6,6 +6,7 @@ In this game people can upgrade their knowledge In a easiest way.
 Visit [Pages for Report -optional](using github.io option)
 
 [![C/C++ CI](https://github.com/Susabhan/c-quiz-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Susabhan/c-quiz-/actions/workflows/c-cpp.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d4c7c7e9dc8f418dac5f6c42048a1d50)](https://www.codacy.com/gh/Susabhan/M1_Application_Quizgame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Susabhan/M1_Application_Quizgame&amp;utm_campaign=Badge_Grade)
 
 ## Folder Structure
 Folder             | Description
