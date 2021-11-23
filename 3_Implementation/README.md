@@ -9,10 +9,12 @@ Folder        | description
 `build`       | Build output (Not included in git)
 
 
-## auth
-# User id and password
+# auth
+## User id and password
 
-Jack JacksPassword101
-Bob BobsPassword101
+Jack JacksPassword101 ////
+
+Bob BobsPassword101  ////
+
 Mark MarksPassword101
 
