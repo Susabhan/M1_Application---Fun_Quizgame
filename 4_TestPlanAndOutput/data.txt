@@ -1,0 +1,6 @@
+Admin User Name is :Rushikesh_Narkhede
+Admin Password is :Rushi@123
+Your JAVA Quiz Score is :2
+
+Pavan Patil :
+Your CPP Quiz Score is :6
