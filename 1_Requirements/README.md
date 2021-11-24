@@ -5,6 +5,10 @@ INTRODUCTION:-
          People really like to play this game in there free time.
 
 FEATURES OF QuizGame:-
+         
+        This game save all data like scores , user_id and passwords , also people 
+        can update their User_id and password in auth.txtfile also they can also add more songs
+        int the music.txt file.
 
 The Quizgame System has :
 
