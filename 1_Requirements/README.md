@@ -13,12 +13,18 @@ https://www.geeksforgeeks.org/hard/c-gq
 -- Content 
 ## 4W's and 1H
 ### Who 
-Quiz game. 
+Quiz game is a fun base game where people love to play.
 ### What 
-Record Score 
+They can record their score in their quiz game data base. 
 ### When 
 People in a free time usaly play this kind of game for gain extra knoladge 
 ### Where 
 This game can be play any time any where
 ### How
 There have multiple question usaly change everytime so every day people can gain more knoladge
+
+INTRODUCTION:-
+
+         This project is about Customer Billing System.This project helps
+         the shopkeeper to track the customers information and their
+         product details.
