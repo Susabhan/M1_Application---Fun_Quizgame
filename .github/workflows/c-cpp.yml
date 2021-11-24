@@ -16,5 +16,5 @@ jobs:
     - name: make
       run: make 3_Implementation
     - name: run
-      run: ./main --ci 3_Implementation
+      run: ./main 3_Implementation
 
