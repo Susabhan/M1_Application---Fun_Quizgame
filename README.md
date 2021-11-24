@@ -17,7 +17,7 @@
             '6_ImageAndVideo'     | Store images only
             
 
-        Learning Resources
+  # Learning Resources
                1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
                2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
