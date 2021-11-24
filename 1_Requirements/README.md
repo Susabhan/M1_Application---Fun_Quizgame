@@ -90,3 +90,9 @@ LOW LEVEL PRQUIREMENTS:-
 |--|------|-------|
 |LLR_1|Collects the record from the players User id and password for play this game|
 |LLR_2|Run the pograme and enter ur user id and password.|
+
+# Research
+         1.https://www.w3schools.in/c-tutorial/
+         2.https://www.sololearn.com/learning/1089
+         3.https://www.geeksforgeeks.org/c-programming-language/
+                  
