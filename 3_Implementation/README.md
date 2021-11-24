@@ -8,7 +8,9 @@
           `build`       | Build output (Not included in git)
 
     User id and password:-
-               Jack JacksPassword101
-               Bob BobsPassword101  
-               Mark MarksPassword101
+              User ID      Password
+               Jack      JacksPassword101
+               Bob       BobsPassword101  
+               Mark      MarksPassword101
+               Sus       Sus20
 
