@@ -1,5 +1,5 @@
      M1_Application_Quizgame:
-             In this game people knows differrent kind of songs. 
+             In this game people knows that What is the power of their brain. 
              
  # All the badges github
  [![C/C++ CI](https://github.com/Susabhan/c-quiz-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Susabhan/c-quiz-/actions/workflows/c-cpp.yml)
