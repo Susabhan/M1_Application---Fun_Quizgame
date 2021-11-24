@@ -1,5 +1,4 @@
 # Implementation
-
 ## Folder Structure
 Folder        | description
 --------------| ----------------------------------------------
@@ -11,10 +10,7 @@ Folder        | description
 
 # auth
 ## User id and password
-
 Jack JacksPassword101 ////
-
 Bob BobsPassword101  ////
-
 Mark MarksPassword101
 
