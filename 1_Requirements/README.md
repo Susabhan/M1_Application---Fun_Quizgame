@@ -1,21 +1,19 @@
 INTRODUCTION:-
 
-         This project is about Customer Billing System.This project helps
-         the shopkeeper to track the customers information and their
-         product details.
+         This project is about Quiz game which is based in gusses.
+         This project helps player to know about new kind of songs.
+         People really like to play this game in there free time.
 
-FEATURES OF CUSTOMER BILLING SYSTEM:-
+FEATURES OF QuizGame:-
 
-The Customer Billing System has :
+The Quizgame System has :
 
-    * Add and maintain records of available products.
-    * Add and maintain customer details.
-    * Add and maintain description of new products.
-    * Add and maintain new entered category of products.
-    * Provides economic/financial reports to the owner monthly or weekly and
-      yearly.
-    * Provides a convenient solution of billing pattern.
-    * Make an easy to use environment for users and customers.
+    * Player have to update their username name and password
+    * Player have read songs list for guess the songs
+    * After start the game player have to put their userid and password
+    * After player need to follow 2 rules.
+    * After they have 2 chance to guess the songs.
+    * After failed to guess the song players get the scores.
 
 IDENTIFYING THE REQUIREMENTS:-
 
@@ -36,60 +34,51 @@ SWOT ANALYSIS:
 
 Strength:
 
-    It is an automate application method ,so It will reduce the Human power.
+    It is an gaming application method ,so It will extend human barin power.
 
 Weakness:
 
-    Though it is an Automated process, it is not fully automated.
+    Player have to remember all songs.
 
 Opportunities:
 
-     It will Increase the company efficiency.
-     Requires less man power in IShops etc...
+     it will give a strong intelligent power to remeber things.
 
 Threads:
 
-      By using this automation process, sometimes system might get corrupt.
-      Provide false Information about the Customer.
+      Some time of a heavy load it's gets crashed
 
 4W'S AND 1H
 
 Why:
 
-    * This project will help the store keeper in fast billing
-    * This project enable store keeper to maintain a great database of all
-     customers visited and purchase product from store.
-    * Project will enable to see report regarding product and category.
-    * Easy to maintain in future prospect.
+    * People like to play this kind of games in their free times.
+    * People love to get good score if they doing anything
 
 What:
 
-    * Add and maintain records of available products.
-    * Add and maintain customer details.
-    * Add and maintain description of new products.
-    * Add and maintain new entered category of products.
+    * People gaing a intelligens power for remind anything
+    * Its help to remind anything quickly
 
 Where:
 
-    *Departmental stores
-    *Medicals.
-    *Shops etc..
+    *Any time any where
+    *In the computer
 
 When:
 
-    While Billing the products.
+    In free time
 
 How:
 
-    This Web based application automate the process of Ordering and billing of departmental store.
+    This is one kind of reminder game
 
 HIGH LEVEL REQUIREMENTS:-
 
 |ID|Description|Status|
 |---|------|-------|
-|HLR_1|This project help in store keeper fast billing.|Implimented|
-|HLR_2|To collect and maintain the data of customers for purchased items.|Implimented|
-|HLR_3|Fully automated tool|Future|
+|HLR_1|This project help people to build up their knoqledge|Implimented|
+|HLR_2|Collect userid and password|Implimented|
 
 LOW LEVEL PRQUIREMENTS:-
 
