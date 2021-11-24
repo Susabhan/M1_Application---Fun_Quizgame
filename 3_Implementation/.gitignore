@@ -1,8 +1,0 @@
-.idea/*
-.vscode/*
-dist/*
-*.o
-*.log
-*.txt
-*.exe
-main
