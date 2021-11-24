@@ -1,5 +1,4 @@
-# TEST PLAN:
-
+# TEST PLAN
 ## Table no: High level test plan
 
 | **Test ID** | **Description**                                              | **Expected Output** | **Actual Out** |**Pass/fail(Result)**  |    
@@ -12,7 +11,6 @@
 |  H_06       |Exit                                                          |  SUCCESS            |SUCCESS         | PASS                  |
 
 ## Table no: Low level test plan
-
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01       |Basic UI display                                              |  SUCCESS   |SUCCESS      |SUCCESS         |PASS              | 
