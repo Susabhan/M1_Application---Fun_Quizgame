@@ -8,6 +8,7 @@
 [![Unit_Testing](https://github.com/Susabhan/M1_Application_Quizgame/actions/workflows/unit_test.yml/badge.svg)](https://github.com/Susabhan/M1_Application_Quizgame/actions/workflows/unit_test.yml)
 [![Static code Cppcheck](https://github.com/Susabhan/M1_Application_Quizgame/actions/workflows/cpp_cheak.yml/badge.svg)](https://github.com/Susabhan/M1_Application_Quizgame/actions/workflows/cpp_cheak.yml)
 [![Build Windows](https://github.com/Susabhan/M1_Application_Quizgame/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/Susabhan/M1_Application_Quizgame/actions/workflows/Build%20Windows.yml)
+[![Build_linux](https://github.com/Susabhan/M1_Application_Quizgame/actions/workflows/Build_linux.yml/badge.svg)](https://github.com/Susabhan/M1_Application_Quizgame/actions/workflows/Build_linux.yml)
 
     Folder Structure
             Folder                | Description
