@@ -22,5 +22,3 @@
 
 # Manual
    https://github.com/Susabhan/M1_Application_Quizgame/tree/main/3_Implementation
-
-[![Build_linux](https://github.com/Susabhan/M1_Application_Quizgame/actions/workflows/Build_linux.yml/badge.svg)](https://github.com/Susabhan/M1_Application_Quizgame/actions/workflows/Build_linux.yml)
