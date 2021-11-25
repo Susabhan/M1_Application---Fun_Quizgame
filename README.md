@@ -21,4 +21,4 @@
             '6_ImageAndVideo'     | Store images only
 
 # Manual
-     https://github.com/Susabhan/M1_Application_Quizgame/tree/main/3_Implementation
+   https://github.com/Susabhan/M1_Application_Quizgame/tree/main/3_Implementation
