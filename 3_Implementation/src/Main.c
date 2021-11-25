@@ -42,7 +42,7 @@ int main(int argc, char *argv[])
 		}
 	}
 	srand(time(NULL));
-	puts("Music Quiz 2019 by Jack Honour AKA JaxkDev");
+	puts("Music Quiz Devolop By Susabhan Pramanik");
 	preboot();
 	loadAllSongs();
 	authLoop();
