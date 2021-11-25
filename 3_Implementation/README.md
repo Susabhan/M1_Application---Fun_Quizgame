@@ -15,9 +15,9 @@
                Sus       Sus20
                
 # Run pograme
-            Open terminal(linux / window) run make 
+            Open terminal using vs code (linux / window) run: make 
             **then **
-            Run ./main
+            Run: ./main
             **After**
             Give user id and password which is given in auth.txt file , also u can set your user id and password.
             **Then**
